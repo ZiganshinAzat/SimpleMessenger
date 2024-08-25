@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  SimpleMessenger
+
+  Created by Азат Зиганшин on 30.07.2024.
+  
+*/
+
+"authTitleLabel" = "Авторизация";
+"passwordPlaceholder" = "Пароль";
+"authButtonText" = "Войти";
+"regButtonText" = "Регистрация";
+
+"regTitleLabel" = "Регистрация";
+"namePlaceholder" = "Имя";
+
+"tabUsers" = "Пользователи";
+"tabMessages" = "Сообщения";
